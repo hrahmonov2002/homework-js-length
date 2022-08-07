@@ -1,0 +1,27 @@
+.result-foot{
+   height: 150px;
+   background-image: url(../images/iconsrunning.png);
+   background-repeat: no-repeat;
+   background-position: 30px 50px;
+}
+
+.result-cycle {
+    height: 150px;
+    background-image: url(../images/iconsbicycle.png);
+    background-repeat: no-repeat;
+    background-position: 30px 50px;
+}
+
+.result-car {
+   height: 150px;
+   background-image: url(../images/iconscar.png);
+   background-repeat: no-repeat;
+   background-position: 10px 40px;
+}
+
+.result-train {
+   height: 150px;
+   background-image: url(../images/iconstrain.png);
+   background-repeat: no-repeat;
+   background-position: 17px 40px;
+}
